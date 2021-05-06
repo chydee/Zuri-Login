@@ -14,10 +14,10 @@
 <img src="zuri_main.png" width="350" title="Main Screen"> <img src="zuri_details.png" width="350" title="Details Screen">
 
 ## Login Details
- \```
+ ```
     LOGIN_EMAIL = "dev@zuritraining.ng"
     LOGIN_PASSWORD = "testPassword@123"
-　\```
+　```
 
 ## Link To APK
  * [Download APK](https://github.com/chydee/Hello-Zuri/releases/tag/v1.0)
