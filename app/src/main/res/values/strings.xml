@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fun Fact</string>
+    <string name="password_hint">Password</string>
+    <string name="username_or_email_hint">Username or email</string>
+    <string name="page_instruction">Login to your account</string>
+    <string name="page_title">Zuri x I4G</string>
+    <string name="log_in_btn_textr">Log in</string>
+    <string name="forgot_your_password_btn_text">Forgot your password?</string>
+    <string name="condition">By using Zuri x I4G you agree to our Term of Service and Privacy Policy.</string>
+</resources>
