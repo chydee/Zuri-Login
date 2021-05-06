@@ -19,5 +19,9 @@
     LOGIN_PASSWORD = "testPassword@123"
 　\```
 
- ## Link To APK
+## Link To APK
  * [Download APK](https://github.com/chydee/Hello-Zuri/releases/tag/v1.0)
+
+## Credits
+
+ Design Inspiration : [Designer Techcronus](https://www.uplabs.com/posts/login-and-registration-b8c7cf78-3eac-4af8-a57b-560cb5356cc5)
